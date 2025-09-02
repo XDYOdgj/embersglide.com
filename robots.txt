@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://embersglide.com/sitemap.xml
